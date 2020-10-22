@@ -91,8 +91,8 @@
 
 <style scoped lang="scss">
 	footer {
+		height: 400px;
 		position: relative;
-		height: 100%;
 		background: #f9f9f9;
 
 		.logo {
